@@ -1,0 +1,6 @@
+module Pods_TimeView {
+  umbrella header "Pods-TimeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
